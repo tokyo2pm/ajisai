@@ -254,20 +254,20 @@ footer {
   
   #wrap {
     max-width: {
-      980px;
+      1280px;
     }
   }
   
   header {
-    max-width: 980px;
+    max-width: 1280px;
   }  
 
   .comentr {
-    max-width: 960px; 
+    max-width: 1280px; 
   }
   
   .line {
-    max-width: 980px;
+    max-width: 1280px;
 }
   
   img {
@@ -278,12 +278,12 @@ footer {
   }
 
   .L {
-    max-width: 960px;
+    max-width: 1260px;
   /*  320px*/
   }
 
   .M {
-    max-width: 477.5px;
+    max-width: 627.5px;
   }
 
   .fl p > img {
